@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# code promo a user 
+# code promo a utiliser 
 # o1qom
 
 	load '/home/brice/Documents/THP/S02J3/TwitteBot/secret.rb' 
